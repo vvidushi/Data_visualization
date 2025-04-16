@@ -1,4 +1,4 @@
-Code,Current,Name,Gender,Function,Country Code,Country,Nationality,Height,Discipline,Events,Birth Date,Age
+code,current,Name,team_gender,Function,country_code,Country,Nationality,Height,discipline,events,Birth Date,Age
 1532872,True,Aleksanyan Artur,Male,Athlete,ARM,Armenia,Armenia,0.0,Wrestling,Mens Greco-Roman 97kg,1991-10-21,32
 1532873,True,Amoyan Malkhas,Male,Athlete,ARM,Armenia,Armenia,0.0,Wrestling,Mens Greco-Roman 77kg,1999-01-22,25
 1532874,True,Galstyan Slavik,Male,Athlete,ARM,Armenia,Armenia,0.0,Wrestling,Mens Greco-Roman 67kg,1996-12-21,27
@@ -11109,6 +11109,6 @@ Code,Current,Name,Gender,Function,Country Code,Country,Nationality,Height,Discip
 4983537,True,Chelangat Annet Chemengich,Female,Athlete,UGA,Uganda,Uganda,174.0,Athletics,"Womens 10,000m",1993-07-29,31
 4986655,True,Ada Eto Sefora,Female,Athlete,GEQ,Equatorial Guinea,Equatorial Guinea,165.0,Athletics,Womens 100m,2003-06-11,21
 9460001,True,Liuzzi Emanuela,Female,Athlete,ITA,Italy,Italy,0.0,Wrestling,Womens Freestyle 50kg,2000-04-27,24
-1972077,False,Boers Isayah,Male,Athlete,NED,Netherlands,Netherlands,0,Athletics,4 x 400m Relay Mixed,1999-06-19,25
-1899865,False,Staut Kevin,Male,Athlete,FRA,France,France,0,Equestrian,Jumping Team,1980-11-15,43
-1924402,False,Carvell Charlie,Male,Athlete,GBR,Great Britain,Great Britain,0,Athletics,Mens 4 x 400m Relay,2004-06-30,20
+1972077,False,Boers Isayah,Male,Athlete,NED,Netherlands,Netherlands,0.0,Athletics,4 x 400m Relay Mixed,1999-06-19,25
+1899865,False,Staut Kevin,Male,Athlete,FRA,France,France,0.0,Equestrian,Jumping Team,1980-11-15,43
+1924402,False,Carvell Charlie,Male,Athlete,GBR,Great Britain,Great Britain,0.0,Athletics,Mens 4 x 400m Relay,2004-06-30,20
