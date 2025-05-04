@@ -6,4 +6,5 @@
 
 
 #Detail Relationship Structure:
-<img width="1129" alt="Screenshot 2025-04-16 at 5 33 05 PM" src="https://github.com/user-attachments/assets/70a0ca43-7ced-4b0e-a9e1-a0212ab41d65" />
+![finalentity_relationship_diagram](https://github.com/user-attachments/assets/25b06fd1-1f7e-43d4-8c8d-0e6b47a48319)
+
