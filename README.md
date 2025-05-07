@@ -7,5 +7,5 @@
 
 
 # Detail Relationship Structure :
-![Entity_relationship_diagram](https://github.com/user-attachments/assets/a5f12a15-2cbe-4650-8d2b-5559eca430c6)
+<img width="1397" alt="E-R_Diagram" src="https://github.com/user-attachments/assets/3bf7f197-49f0-4a53-9c34-980ebbbdef23" />
 
