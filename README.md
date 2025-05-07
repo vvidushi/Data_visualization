@@ -9,3 +9,9 @@
 # Detail Relationship Structure :
 <img width="1397" alt="E-R_Diagram" src="https://github.com/user-attachments/assets/3bf7f197-49f0-4a53-9c34-980ebbbdef23" />
 
+# Dashboard Data Model:
+![Dashboard Data Model](design/Dashboad%20DataModel.jpeg)
+
+
+
+
