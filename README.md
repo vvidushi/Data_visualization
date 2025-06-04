@@ -18,3 +18,4 @@ https://app.powerbi.com/groups/41f6ceef-727d-475a-bbd0-212bd5c395aa/reports/4d1e
 ## Presentation 
 
 
+[Group4_DATA 230_Final_Project_Presentaion.pptx](https://github.com/user-attachments/files/20584761/Group4_DATA.230_Final_Project_Presentaion.pptx)
