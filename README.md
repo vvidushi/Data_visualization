@@ -12,6 +12,9 @@
 # Dashboard Data Model:
 ![Dashboard Data Model](design/Dashboad%20DataModel.jpeg)
 
+## Link for Dashboards
+https://app.powerbi.com/groups/41f6ceef-727d-475a-bbd0-212bd5c395aa/reports/4d1e2713-3d41-42e5-b6e4-c06dd8403c96/fbab8b832ac915d8d372?experience=power-bi
 
+## Presentation 
 
 
